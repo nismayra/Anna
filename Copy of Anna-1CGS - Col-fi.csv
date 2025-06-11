@@ -1,0 +1,434 @@
+coc,College,Max OC Cut-off,Select,Select all,Weight,Location,Loc Selected,Branch Selected,Loc/Branch Fliter
+1,University Departments Of Anna University,199,FALSE,FALSE,51,Chennai,TRUE,TRUE,TRUE
+2,University Departments Of Anna University,197.5,FALSE,TRUE,51,Chennai,TRUE,TRUE,TRUE
+2006,Psg College Of Technology (Autonomous),197.5,TRUE,TRUE,51,Coimbatore,TRUE,TRUE,TRUE
+2007,Coimbatore Institute Of Technology (Autonomous),194.9,TRUE,TRUE,53,Coimbatore,TRUE,TRUE,TRUE
+2005,Government College Of Technology (Autonomous),194.615,TRUE,TRUE,53,Coimbatore,TRUE,TRUE,TRUE
+2377,Psg Institute Of Technology And Applied Research,194.33,TRUE,TRUE,53,Coimbatore,TRUE,TRUE,TRUE
+2712,Kumaraguru College Of Technology (Autonomous),193.49,TRUE,TRUE,53,Coimbatore,TRUE,TRUE,TRUE
+3465,Government College Of Engineering,186.745,TRUE,FALSE,57,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+3011,University College Of Engineering,186.15,TRUE,FALSE,57,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+3819,Saranathan College Of  Engineering,184.385,TRUE,FALSE,58,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+1399,Chennai Institute Of Technology,193.095,FALSE,FALSE,53,Chennai,TRUE,TRUE,TRUE
+1450,Loyola-Icam College Of Engineering And Technology,192,FALSE,FALSE,54,Chennai,TRUE,TRUE,TRUE
+2718,Sri Krishna College Of Enginering And Technology (Autonomous),192,TRUE,TRUE,54,Coimbatore,TRUE,TRUE,TRUE
+1317,St. Josephõs College Of Engineering (Autonomous),191.21,FALSE,FALSE,54,Chennai,TRUE,TRUE,TRUE
+1304,Easwari Engineering College (Autonomous),190.945,FALSE,FALSE,55,Chennai,TRUE,TRUE,TRUE
+2025,Anna University Regional Campus - Coimbatore,190.57,TRUE,TRUE,55,Coimbatore,TRUE,TRUE,TRUE
+1419,Sri Sairam Enginering College (Autonomous),190.525,FALSE,FALSE,55,Chennai,TRUE,TRUE,TRUE
+2719,Sri Ramakrishna Engineering College (Autonomous),188.665,FALSE,FALSE,56,Coimbatore,TRUE,TRUE,TRUE
+3830,K Ramakrishnan College Of Engineering (Autonomous),183.79,FALSE,FALSE,58,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+1309,Meenakshi Sundararajan Engineering College,188.075,FALSE,FALSE,56,Chennai,TRUE,TRUE,TRUE
+2722,Sri Krishna College Of Technology (Autonomous),188.015,FALSE,FALSE,56,Coimbatore,TRUE,TRUE,TRUE
+1210,Panimalar Engineering College (Autonomous),187.405,FALSE,FALSE,56,Chennai,TRUE,TRUE,TRUE
+3826,Kongunadu College Of Engineering And Technology (Autonomous),181.69,FALSE,FALSE,59,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+3795,Srm Trp Engineering College,181.56,FALSE,FALSE,59,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+2739,Sri Eshwar College Of Engineering (Autonomous),187.38,FALSE,FALSE,56,Coimbatore,TRUE,TRUE,TRUE
+1422,Srm Valliammai Engineering College (Autonomous),187,FALSE,FALSE,57,Chennai,TRUE,TRUE,TRUE
+1324,Sri Sai Ram Institute Of Technology (Autonomous),186,FALSE,FALSE,57,Chennai,TRUE,TRUE,TRUE
+2706,Dr. Mahalingam College Of  Engineering And Technology (Autonomous),185.47,FALSE,FALSE,57,Coimbatore,TRUE,TRUE,TRUE
+2764,K P R Institute Of Engineering And Technology (Autonomous),185.38,FALSE,FALSE,57,Coimbatore,TRUE,TRUE,TRUE
+1120,Velammal Engineering College (Autonomous),185.205,FALSE,FALSE,57,Chennai,TRUE,TRUE,TRUE
+1149,St. Josephs Institute Of Technology,184.935,FALSE,FALSE,58,Chennai,TRUE,TRUE,TRUE
+3464,Government College Of Engineering,183.615,TRUE,FALSE,58,Thanjavur,TRUE,TRUE,TRUE
+2710,Karpagam College Of Engineering (Autonomous),183.56,FALSE,FALSE,58,Coimbatore,TRUE,TRUE,TRUE
+2704,Coimbatore Institute Of Engineering And Technolgoy (Autonomous),182.19,FALSE,FALSE,59,Coimbatore,TRUE,TRUE,TRUE
+1231,Panimalar Institute Of Technology,182,FALSE,FALSE,59,Chennai,TRUE,TRUE,TRUE
+3701,K Ramakrishnan College Of Technology (Autonomous),176.3,FALSE,FALSE,62,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+1306,Jeppiar Engineering College,181.92,FALSE,FALSE,59,Chennai,TRUE,TRUE,TRUE
+1118,Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College (Autonomous),181.86,FALSE,FALSE,59,Chennai,TRUE,TRUE,TRUE
+2725,Sri Ramakrishna Institute Of Technology (Autonomous),181.725,FALSE,FALSE,59,Coimbatore,TRUE,TRUE,TRUE
+2727,Sri Shakthi Institute Of Engineering And Technology (Autonomous),181.55,FALSE,FALSE,59,Coimbatore,TRUE,TRUE,TRUE
+2726,S N S College Of Technology (Autonomous),181.495,FALSE,FALSE,59,Coimbatore,TRUE,TRUE,TRUE
+1311,K C G College Of Technology,181,FALSE,FALSE,60,Chennai,TRUE,TRUE,TRUE
+2736,Dr. N G P Institute Of Technology,180.525,FALSE,FALSE,60,Coimbatore,TRUE,TRUE,TRUE
+2735,Karpagam Institute Of Technology,180.385,FALSE,FALSE,60,Coimbatore,TRUE,TRUE,TRUE
+3807,J J College Of Engineering And Technology,170.545,FALSE,FALSE,65,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+3815,Pavendhar Bharathidasan College Of Engineering And Technology,170.505,FALSE,FALSE,65,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+1122,Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College (Autonomous),179.97,FALSE,FALSE,60,Chennai,TRUE,TRUE,TRUE
+2750,Kalaignar Karunanidhi Institute Of Technology (Autonomous),179.835,FALSE,FALSE,60,Coimbatore,TRUE,TRUE,TRUE
+2741,P A College Of Engineering And Technology (Autonomous),179.58,FALSE,FALSE,60,Coimbatore,TRUE,TRUE,TRUE
+2751,Kgisl Institute Of Technology,179.41,FALSE,FALSE,60,Coimbatore,TRUE,TRUE,TRUE
+2734,S N S College Of Engineering (Autonomous),178.925,FALSE,FALSE,61,Coimbatore,TRUE,TRUE,TRUE
+1114,S A Engineering College (Autonomous),178.68,FALSE,FALSE,61,Chennai,TRUE,TRUE,TRUE
+1310,Misrimal Navajee Munoth Jain Engineering College,178.5,FALSE,FALSE,61,Chennai,TRUE,TRUE,TRUE
+3841,Care College Of Engineering (Formerly C.A.R.E Group Of Institutions),168.24,FALSE,FALSE,66,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+2357,V S B College Of Engineering Technical Campus,178.375,FALSE,FALSE,61,Coimbatore,TRUE,TRUE,TRUE
+2708,Hindusthan College Of Engineering And Technology (Autonomous),178.24,FALSE,FALSE,61,Coimbatore,TRUE,TRUE,TRUE
+3810,M.A.M. College Of Engineering,167.55,FALSE,FALSE,66,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+2329,Rathinam Technical Campus,177.535,FALSE,FALSE,61,Coimbatore,TRUE,TRUE,TRUE
+1307,Jerusalem College Of Engineering (Autonomous),176.86,FALSE,FALSE,62,Chennai,TRUE,TRUE,TRUE
+3820,Trichy Engineering College,165.275,FALSE,FALSE,67,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+1217,Sree Sastha Institute Of Engineering And Technology,176.47,FALSE,FALSE,62,Chennai,TRUE,TRUE,TRUE
+1414,Prince Shri Venkateshwara  Padmavathy Enginering College,175.91,FALSE,FALSE,62,Chennai,TRUE,TRUE,TRUE
+2740,Hindustan Institute Of Technology (Autonomous),175.885,FALSE,FALSE,62,Coimbatore,TRUE,TRUE,TRUE
+3786,M.A.M. School Of Engineering,163.91,FALSE,FALSE,68,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+3021,University College Of Engineering,175.835,TRUE,FALSE,62,Thanjavur,TRUE,TRUE,TRUE
+1424,Dhaanish Ahmed College Of Engineering,175.78,FALSE,FALSE,62,Chennai,TRUE,TRUE,TRUE
+1509,Meenakshi College Of Engineering,175.5,FALSE,FALSE,62,Chennai,TRUE,TRUE,TRUE
+2721,Tamilnadu College Of Engineering,175.35,FALSE,FALSE,62,Coimbatore,TRUE,TRUE,TRUE
+1225,Loyola Institute Of Technology,174.9,FALSE,FALSE,63,Chennai,TRUE,TRUE,TRUE
+2729,Nehru Institute Of Engineering And Technology,174.54,FALSE,FALSE,63,Coimbatore,TRUE,TRUE,TRUE
+2745,Kathir College Of Engineering,172.975,FALSE,FALSE,64,Coimbatore,TRUE,TRUE,TRUE
+3016,University College Of Engineering,172.595,TRUE,FALSE,64,Ariyalur,TRUE,TRUE,TRUE
+3811,M I E T Engineering College,162.615,FALSE,FALSE,69,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+3829,M.A.M. College Of Engineering And Technology,162.56,FALSE,FALSE,69,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+2737,Sri Sai Ranganathan Engineering College,172.13,FALSE,FALSE,64,Coimbatore,TRUE,TRUE,TRUE
+3805,Dhanalakshmi Srinivasan  Engineering College (Autonomous),171.955,FALSE,FALSE,64,Perambalur,TRUE,TRUE,TRUE
+1420,Tagore Engineering College,171.855,FALSE,FALSE,64,Chennai,TRUE,TRUE,TRUE
+1101,Aalim Muhammed Salegh College Of Engineering,171.605,FALSE,FALSE,64,Chennai,TRUE,TRUE,TRUE
+1322,Dhanalakshmi Srinivasan College Of Engineering And Technology,171.5,FALSE,FALSE,64,Chennai,TRUE,TRUE,TRUE
+1218,Sri Muthukumaran Institute Of Technology,171.1,FALSE,FALSE,64,Chennai,TRUE,TRUE,TRUE
+1431,New Prince Shri Bhavani College Of Engineering And Technology,170.9,FALSE,FALSE,65,Chennai,TRUE,TRUE,TRUE
+3782,Oasys Institute Of Technology,157.96,FALSE,FALSE,71,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+3831,Indra Ganesan College Of Engineering,157.34,FALSE,FALSE,71,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+3802,Shri Angalamman College Of Engineering And Technology,157.185,FALSE,FALSE,71,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+2731,R V S College Of Engineering And Technology,170.76,FALSE,FALSE,65,Coimbatore,TRUE,TRUE,TRUE
+3833,Parisutham Institute Of Technology And Science,170.76,FALSE,FALSE,65,Thanjavur,TRUE,TRUE,TRUE
+1452,Peri Institute Of Technology,170.745,FALSE,FALSE,65,Chennai,TRUE,TRUE,TRUE
+1442,Prince Dr. K Vasudevan College Of Engineering And Technology,170.3,FALSE,FALSE,65,Chennai,TRUE,TRUE,TRUE
+2762,Jansons Institute Of Technology,170.25,FALSE,FALSE,65,Coimbatore,TRUE,TRUE,TRUE
+3813,Oxford Engineering College,154.355,FALSE,FALSE,73,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+2755,Nehru Institute Of Technology,170,FALSE,FALSE,65,Coimbatore,TRUE,TRUE,TRUE
+1228,Alpha College Of Engineering,169.585,FALSE,FALSE,65,Chennai,TRUE,TRUE,TRUE
+2716,Park College Of Engineering And Technology,169.27,FALSE,FALSE,65,Coimbatore,TRUE,TRUE,TRUE
+3905,Kings College Of Engineering,169.265,FALSE,FALSE,65,Pudukkottai,TRUE,TRUE,TRUE
+2743,Dhanalakshmi Srinivasan College Of Engineering,169.14,FALSE,FALSE,65,Coimbatore,TRUE,TRUE,TRUE
+1127,St. Peters College Of Engineering And Technology,169.07,FALSE,FALSE,65,Chennai,TRUE,TRUE,TRUE
+3844,Shivani Engineering College,142.67,FALSE,FALSE,79,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+2354,Pollachi Institute Of Engineering And Technology,168.92,FALSE,FALSE,66,Coimbatore,TRUE,TRUE,TRUE
+3808,Jayaram College Of Engineering And Technology,141.67,FALSE,FALSE,79,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+3850,Vetri Vinayaha College Of Engineering And Technology,140.135,FALSE,FALSE,80,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+2673,Sree Sakthi Engineering College,168.68,FALSE,FALSE,66,Coimbatore,TRUE,TRUE,TRUE
+1405,Dhanalakshmi College Of  Engineering,168.38,FALSE,FALSE,66,Chennai,TRUE,TRUE,TRUE
+3809,Kurinji College Of Engineering And Technology,128.475,FALSE,FALSE,86,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+1447,Jawahar Engineering College,168.35,FALSE,FALSE,66,Chennai,TRUE,TRUE,TRUE
+3460,Sureya College Of Engineering,94.5,FALSE,FALSE,103,Trichy-Tiruchirappalli,FALSE,TRUE,FALSE
+2744,Adithya Institute Of Technology,167.715,FALSE,FALSE,66,Coimbatore,TRUE,TRUE,TRUE
+2761,United Institute Of Technology,167.625,FALSE,FALSE,66,Coimbatore,TRUE,TRUE,TRUE
+2732,Info Institute Of Engineering,167.535,FALSE,FALSE,66,Coimbatore,TRUE,TRUE,TRUE
+4,University Departments Of Anna University,197.175,FALSE,TRUE,51,Chengalpattu,FALSE,TRUE,FALSE
+5,Annamalai University Faculty Of Engineering And Technology,197,FALSE,TRUE,52,Cuddalore,FALSE,TRUE,FALSE
+1315,Sri Sivasubramaniya Nadar College Of Engineering (Autonomous),197,FALSE,TRUE,52,Chengalpattu,FALSE,TRUE,FALSE
+5008,Thiagarajar College Of Engineering (Autonomous),195.02,FALSE,TRUE,52,Madurai,FALSE,TRUE,FALSE
+1219,Sri Venkateswara College Of Engineering (Autonomous),193.79,FALSE,TRUE,53,Kancheepuram,FALSE,TRUE,FALSE
+3454,Sri Ramakrishna College Of Engineering,166.64,FALSE,FALSE,67,Perambalur,TRUE,TRUE,TRUE
+5012,Central Electrochemical Research Institute Cecri),193,FALSE,FALSE,54,Sivagangai,FALSE,FALSE,FALSE
+2615,Government College Of Engineering (Autonomous),192.295,FALSE,FALSE,54,Salem,FALSE,TRUE,FALSE
+1211,Rajalakshmi Engineering College (Autonomous),192,FALSE,FALSE,54,Kancheepuram,FALSE,TRUE,FALSE
+1202,D M I College Of Engineering,165.8,FALSE,FALSE,67,Chennai,TRUE,TRUE,TRUE
+1426,Sri Ramanujar Engineering College,165.19,FALSE,FALSE,67,Chennai,TRUE,TRUE,TRUE
+5901,Alagappa Chettair Government College Of Engineering And Technology (Autonomous),191.21,FALSE,FALSE,54,Sivagangai,FALSE,TRUE,FALSE
+1113,R M K Engineering College (Autonomous),191.01,FALSE,FALSE,54,Thiruvallur,TRUE,TRUE,TRUE
+3920,Sudharsan Engineering College,165.085,FALSE,FALSE,67,Pudukkottai,TRUE,TRUE,TRUE
+4974,Government College Of Engineering,190.83,FALSE,FALSE,55,Tirunelveli,FALSE,TRUE,FALSE
+2776,R V S Technical Campus-Coimbatore,164.91,FALSE,FALSE,68,Coimbatore,TRUE,TRUE,TRUE
+2702,Bannari Amman Institute Of Technology (Autonomous),189.815,FALSE,FALSE,55,Erode,FALSE,TRUE,FALSE
+2711,Kongu Engineering College (Autonomous),189.5,FALSE,FALSE,55,Erode,FALSE,TRUE,FALSE
+4960,Mepco Schlenk Engineering College (Autonomous),189.12,FALSE,FALSE,55,Virudhunagar,FALSE,TRUE,FALSE
+2709,Government Engineering College (Formerly Institute Of Road And Transport Technology),188.44,FALSE,FALSE,56,Erode,FALSE,TRUE,FALSE
+5986,Velammal College Of Engineering And Technology,188.25,FALSE,FALSE,56,Madurai,FALSE,TRUE,FALSE
+2367,Arjun College Of Technology,164.585,FALSE,FALSE,68,Coimbatore,TRUE,TRUE,TRUE
+2603,Government College Of Engineering (Autonomous),187.65,FALSE,FALSE,56,Krishnagiri,FALSE,TRUE,FALSE
+2753,P P G Institute Of Technology,163.76,FALSE,FALSE,68,Coimbatore,TRUE,TRUE,TRUE
+1516,Thanthai Periyar Government Institute Of Technology,187.285,FALSE,FALSE,56,Vellore,FALSE,TRUE,FALSE
+1112,R M D Engineering College (Autonomous),187.175,FALSE,FALSE,56,Thiruvallur,TRUE,TRUE,TRUE
+1432,Rajalakshmi Institute Of Technology,187.02,FALSE,FALSE,56,Kancheepuram,FALSE,TRUE,FALSE
+1407,G K M College Of  Engineering And Technology,163.75,FALSE,FALSE,68,Chennai,TRUE,TRUE,TRUE
+4678,Ramco Institute Of Technology,186.03,FALSE,FALSE,57,Virudhunagar,FALSE,TRUE,FALSE
+4962,National  Engineering College (Autonomous),186.01,FALSE,FALSE,57,Thoothukudi,FALSE,TRUE,FALSE
+3812,Mookambigai College Of Engineering,163.68,FALSE,FALSE,68,Pudukkottai,TRUE,TRUE,TRUE
+1026,University College Of Engineering,185.755,FALSE,FALSE,57,Kancheepuram,FALSE,TRUE,FALSE
+1321,Central Institute Of Petrochemicals Engineering And Technology (Formerly Central Institute Of Plastics Engineering And Technology) (Cipet),185.58,FALSE,FALSE,57,Chennai,TRUE,FALSE,FALSE
+1437,Rrase College Of Engineering,163.49,FALSE,FALSE,68,Chennai,TRUE,TRUE,TRUE
+2618,Sona College Of Technology (Autonomous),184.97,FALSE,FALSE,58,Salem,FALSE,TRUE,FALSE
+2342,Sri Ranganathar Institute Of Engineering And Technology,163.405,FALSE,FALSE,68,Coimbatore,TRUE,TRUE,TRUE
+1128,R M K College Of Engineering And Technology (Autonomous),184.82,FALSE,FALSE,58,Thiruvallur,TRUE,TRUE,TRUE
+1216,Saveetha Engineering College (Autonomous),184.58,FALSE,FALSE,58,Kancheepuram,FALSE,TRUE,FALSE
+4971,St. Xavier Catholic College Of Engineering,184.46,FALSE,FALSE,58,Kanyakumari,FALSE,TRUE,FALSE
+2369,Government College Of Engineering,184.205,FALSE,FALSE,58,Dharmapuri,FALSE,TRUE,FALSE
+5010,Anna University Regional Campus - Madurai,184.01,FALSE,FALSE,58,Madurai,FALSE,TRUE,FALSE
+2608,M Kumarasamy College Of Engineering (Autonomous),183.955,FALSE,FALSE,58,Karur,FALSE,TRUE,FALSE
+4020,Anna University Regional Campus - Tirunelveli,183.615,FALSE,FALSE,58,Tirunelveli,FALSE,TRUE,FALSE
+2656,Builders Engineering College,183.38,FALSE,FALSE,58,Tiruppur,FALSE,TRUE,FALSE
+5910,P S N A Colllege Of Engineering And Technology,182.5,FALSE,FALSE,59,Dindigul,FALSE,TRUE,FALSE
+1013,University College Of Engineering,182.32,FALSE,FALSE,59,Villupuram,FALSE,TRUE,FALSE
+2622,V S B Engineering College,182.08,FALSE,FALSE,59,Karur,FALSE,TRUE,FALSE
+3908,Mount Zion College Of Engineering And Technology,163.185,FALSE,FALSE,68,Pudukkottai,TRUE,TRUE,TRUE
+4023,University College Of Engineering,181.98,FALSE,FALSE,59,Kanyakumari,FALSE,TRUE,FALSE
+2763,Akshaya College Of Engineering And Technology,163.175,FALSE,FALSE,68,Coimbatore,TRUE,TRUE,TRUE
+3804,Arasu Engineering  College,163.11,FALSE,FALSE,68,Thanjavur,TRUE,TRUE,TRUE
+2723,Velalar College Of Engineering And Technology (Autonomous),181.79,FALSE,FALSE,59,Erode,FALSE,TRUE,FALSE
+5009,Government College Of Engineering,181.415,FALSE,FALSE,59,Theni,FALSE,TRUE,FALSE
+3803,Anjalai Ammal-Mahalingam Engineering College,181.065,FALSE,FALSE,59,Thiruvarur,FALSE,TRUE,FALSE
+2749,Easa College Of Engineering And Technology,163.04,FALSE,FALSE,68,Coimbatore,TRUE,TRUE,TRUE
+4955,Francis Xavier Engineering College (Autonomous),180.44,FALSE,FALSE,60,Tirunelveli,FALSE,TRUE,FALSE
+5904,K L N College Of Engineering (Autonomous),180.065,FALSE,FALSE,60,Sivagangai,FALSE,TRUE,FALSE
+2653,Knowledge Institute Of Technology,180,FALSE,FALSE,60,Salem,FALSE,TRUE,FALSE
+3456,K S K College Of Engineering And Technology,162.865,FALSE,FALSE,69,Thanjavur,TRUE,TRUE,TRUE
+2343,Indian Institute Of Handloom Technology,179.88,FALSE,FALSE,60,Salem,FALSE,FALSE,FALSE
+3801,A V C College Of Engineering,179.845,FALSE,FALSE,60,Mayiladuthurai,FALSE,TRUE,FALSE
+1140,Jeppiaar Institute Of Technology,179.7,FALSE,FALSE,60,Kancheepuram,FALSE,TRUE,FALSE
+1237,Velammal Institute Of Technology,179.5,FALSE,FALSE,60,Thiruvallur,TRUE,TRUE,TRUE
+4959,Kamaraj College Of Engineering And Technology (Autonomous),179.165,FALSE,FALSE,60,Virudhunagar,FALSE,TRUE,FALSE
+1335,Sri Krishna Institute Of Technology,162.78,FALSE,FALSE,69,Chennai,TRUE,TRUE,TRUE
+1116,Sri Venkateswara College Of Engineering And Technology,178.5,FALSE,FALSE,61,Thiruvallur,TRUE,TRUE,TRUE
+1106,Jaya Engineering College,162.475,FALSE,FALSE,69,Chennai,TRUE,TRUE,TRUE
+2607,K S Rangasamy College Of Technology (Autonomous),178.5,FALSE,FALSE,61,Namakkal,FALSE,TRUE,FALSE
+1014,University College Of Engineering,177.89,FALSE,FALSE,61,Villupuram,FALSE,TRUE,FALSE
+4954,Dr. Sivanthi Aditanar College Of Engineering,177.65,FALSE,FALSE,61,Thoothukudi,FALSE,TRUE,FALSE
+5022,University College Of Engineering,177.425,FALSE,FALSE,61,Dindigul,FALSE,TRUE,FALSE
+1413,Sri Venkateswaraa College Of Technology,177.315,FALSE,FALSE,61,Kancheepuram,FALSE,TRUE,FALSE
+3806,E G S Pillay  Engineering College (Autonomous),177.27,FALSE,FALSE,61,Nagapattinam,FALSE,TRUE,FALSE
+2601,Adhiyamaan  College Of Engineering (Autonomous),177.25,FALSE,FALSE,61,Krishnagiri,FALSE,TRUE,FALSE
+1526,Sri Krishna College Of Engineering,177.13,FALSE,FALSE,61,Ranipet,FALSE,TRUE,FALSE
+3821,A R J College Of Engineering And Technology,177.045,FALSE,FALSE,61,Thiruvarur,FALSE,TRUE,FALSE
+1411,Madha Engineering College,161.93,FALSE,FALSE,69,Chennai,TRUE,TRUE,TRUE
+1015,University College Of Engineering,176.625,FALSE,FALSE,62,Thiruvannamalai,FALSE,TRUE,FALSE
+1233,Adhi College Of Engineering And Technology,176.485,FALSE,FALSE,62,Kancheepuram,FALSE,TRUE,FALSE
+1427,Sri Krishna Engineering College,161.245,FALSE,FALSE,69,Chennai,TRUE,TRUE,TRUE
+2620,Vivekanandha College Of Engineering For Women (Autonomous),176.175,FALSE,FALSE,62,Namakkal,FALSE,TRUE,FALSE
+1110,Prathyusha Engineering College,176.145,FALSE,FALSE,62,Thiruvallur,TRUE,TRUE,TRUE
+4965,P S R  Engineering College (Autonomous),176.065,FALSE,FALSE,62,Virudhunagar,FALSE,TRUE,FALSE
+3825,St. Josephs College Of Engineering And Technology,160.99,FALSE,FALSE,70,Thanjavur,TRUE,TRUE,TRUE
+5530,Ssm Institute Of Engineering And Technology,175.83,FALSE,FALSE,62,Dindigul,FALSE,TRUE,FALSE
+2360,Suguna College Of Engineering,160.78,FALSE,FALSE,70,Coimbatore,TRUE,TRUE,TRUE
+2769,J C T College Of Engineering And Technology,160.525,FALSE,FALSE,70,Coimbatore,TRUE,TRUE,TRUE
+4024,University V.O.C. College Of Engineering,175.5,FALSE,FALSE,62,Thoothukudi,FALSE,TRUE,FALSE
+4670,Rohini College Of Engineering & Technology,175.5,FALSE,FALSE,62,Kanyakumari,FALSE,TRUE,FALSE
+1205,Lord Venkateshwara Engineering College,175.41,FALSE,FALSE,62,Kancheepuram,FALSE,TRUE,FALSE
+4981,Ponjesly College Of  Engineering,175.22,FALSE,FALSE,62,Kanyakumari,FALSE,TRUE,FALSE
+1409,Karpagavinayaga College Of Engineering And Technology,175.185,FALSE,FALSE,62,Chengalpattu,FALSE,TRUE,FALSE
+1319,Thangavelu Engineering College,160.44,FALSE,FALSE,70,Chennai,TRUE,TRUE,TRUE
+4917,Sethu Institute Of Technology (Autonomous),174.835,FALSE,FALSE,63,Virudhunagar,FALSE,TRUE,FALSE
+2715,Nandha Engineering College (Autonomous),174.825,FALSE,FALSE,63,Erode,FALSE,TRUE,FALSE
+1504,Arunai Engineering College,174.72,FALSE,FALSE,63,Thiruvannamalai,FALSE,TRUE,FALSE
+4680,Aaa College Of Engineering And Technology,174.585,FALSE,FALSE,63,Virudhunagar,FALSE,TRUE,FALSE
+1301,Mohamed Sathak A J College Of Engineering,174.275,FALSE,FALSE,63,Chengalpattu,FALSE,TRUE,FALSE
+1505,C Abdul Hakeem College Of Engineering And Technology,174.255,FALSE,FALSE,63,Ranipet,FALSE,TRUE,FALSE
+3019,University College Of Engineering,174.13,FALSE,FALSE,63,Cuddalore,FALSE,TRUE,FALSE
+4938,Sivaji College Of Engineering And Technology,173.55,FALSE,FALSE,63,Kanyakumari,FALSE,TRUE,FALSE
+1325,St. Joseph College Of Engineering,173.53,FALSE,FALSE,63,Kancheepuram,FALSE,TRUE,FALSE
+2328,K S R Institute For Engineering And Technology,173.48,FALSE,FALSE,63,Namakkal,FALSE,TRUE,FALSE
+2610,Muthayammal Engineering College (Autonomous),173.46,FALSE,FALSE,63,Namakkal,FALSE,TRUE,FALSE
+2613,K S R College Of Engineering (Autonomous),173.36,FALSE,FALSE,63,Namakkal,FALSE,TRUE,FALSE
+4944,Arunachala College Of Engineering For Women,173.34,FALSE,FALSE,63,Kanyakumari,FALSE,TRUE,FALSE
+3018,University College Of Engineering,173.295,FALSE,FALSE,63,Nagapattinam,FALSE,TRUE,FALSE
+5865,Nadar Saraswathi College Of Engineering And Technology,173.14,FALSE,FALSE,63,Theni,FALSE,TRUE,FALSE
+1238,Grt Institute Of Engineering And Technology,173,FALSE,FALSE,64,Thiruvallur,TRUE,TRUE,TRUE
+2611,Paavai Engineering College (Autonomous),173,FALSE,FALSE,64,Namakkal,FALSE,TRUE,FALSE
+5921,Syed Ammal Engineering College,172.585,FALSE,FALSE,64,Ramanathapuram,FALSE,TRUE,FALSE
+2628,Paavai College Of Engineering,172.46,FALSE,FALSE,64,Namakkal,FALSE,TRUE,FALSE
+3425,C K College Of Engineering And Technology,172.255,FALSE,FALSE,64,Cuddalore,FALSE,TRUE,FALSE
+2621,Er. Perumal Manimekalai College Of Engineering,171.965,FALSE,FALSE,64,Krishnagiri,FALSE,TRUE,FALSE
+4864,V V College Of Engineering,171.935,FALSE,FALSE,64,Thoothukudi,FALSE,TRUE,FALSE
+5907,Mohamed Sathak Engineering College,171.935,FALSE,FALSE,64,Ramanathapuram,FALSE,TRUE,FALSE
+2349,Dhaanish Ahmed Institute Of Technology,160.045,FALSE,FALSE,70,Coimbatore,TRUE,TRUE,TRUE
+1115,Sri Ram Engineering College,171.805,FALSE,FALSE,64,Thiruvallur,TRUE,TRUE,TRUE
+1316,Agni College Of Technology,171.72,FALSE,FALSE,64,Chengalpattu,FALSE,TRUE,FALSE
+3918,Shanmuganathan Engineering College,159.825,FALSE,FALSE,70,Pudukkottai,TRUE,TRUE,TRUE
+5532,Vaigai College Of Engineering,171.505,FALSE,FALSE,64,Madurai,FALSE,TRUE,FALSE
+3852,Sri Bharathi Engineering College For Women,158.955,FALSE,FALSE,71,Pudukkottai,TRUE,TRUE,TRUE
+3817,Roever Engineering College,158.9,FALSE,FALSE,71,Perambalur,TRUE,TRUE,TRUE
+1501,Adhiparasakthi College Of Engineering,171.035,FALSE,FALSE,64,Ranipet,FALSE,TRUE,FALSE
+5832,N P R College Of Engineering And Technology,170.975,FALSE,FALSE,65,Dindigul,FALSE,TRUE,FALSE
+2651,Jai Shriram Engineering College,170.925,FALSE,FALSE,65,Tiruppur,FALSE,TRUE,FALSE
+1123,Gojan School Of Business And Technology,157.845,FALSE,FALSE,71,Chennai,TRUE,TRUE,TRUE
+1303,Anand Institute Of Higher Technology,170.845,FALSE,FALSE,65,Chengalpattu,FALSE,TRUE,FALSE
+1221,Jaya College Of Engineering And Technology,157.275,FALSE,FALSE,71,Chennai,TRUE,TRUE,TRUE
+2661,Vivekanandha College Of Technology For Women,170.58,FALSE,FALSE,65,Namakkal,FALSE,TRUE,FALSE
+5017,University College Of Engineering,170.5,FALSE,FALSE,65,Ramanathapuram,FALSE,TRUE,FALSE
+4979,V.P.Muthaiah Pillai Meenakshi Ammal Engineering College For Women,170.49,FALSE,FALSE,65,Virudhunagar,FALSE,TRUE,FALSE
+1416,Jaya Sakthi Engineering College,156.285,FALSE,FALSE,72,Chennai,TRUE,TRUE,TRUE
+1520,Kingston Engineering College,170.22,FALSE,FALSE,65,Vellore,FALSE,TRUE,FALSE
+2355,Cheran College Of Engineering,169.835,FALSE,FALSE,65,Karur,FALSE,TRUE,FALSE
+3849,Annai College Of Engineering And Technology,155.99,FALSE,FALSE,72,Thanjavur,TRUE,TRUE,TRUE
+2345,Dhirajlal Gandhi College Of Technology,169.5,FALSE,FALSE,65,Salem,FALSE,TRUE,FALSE
+2707,Erode Sengunthar Engineering College (Autonomous),169.44,FALSE,FALSE,65,Erode,FALSE,TRUE,FALSE
+4972,Amrita  College Of Engineering And Technology,169.33,FALSE,FALSE,65,Kanyakumari,FALSE,TRUE,FALSE
+5502,Sree Raaja Raajan College Of Engineering & Technology,169.285,FALSE,FALSE,65,Sivagangai,FALSE,TRUE,FALSE
+1408,I F E T College Of Engineering  (Autonomous),169.27,FALSE,FALSE,65,Villupuram,FALSE,TRUE,FALSE
+4928,Mar Ephraem College Of Engineering & Technology,169.195,FALSE,FALSE,65,Kanyakumari,FALSE,TRUE,FALSE
+2768,Park College Of Technology,155.75,FALSE,FALSE,72,Coimbatore,TRUE,TRUE,TRUE
+1401,Adhiparasakthi Engineering College,169.065,FALSE,FALSE,65,Chengalpattu,FALSE,TRUE,FALSE
+4966,Pet Engineering College,168.855,FALSE,FALSE,66,Tirunelveli,FALSE,TRUE,FALSE
+2642,P S V College Of Engineeering And Technology,168.635,FALSE,FALSE,66,Krishnagiri,FALSE,TRUE,FALSE
+1230,Apollo Engineering College,168.615,FALSE,FALSE,66,Kancheepuram,FALSE,TRUE,FALSE
+2752,Nandha College Of Technology,168.46,FALSE,FALSE,66,Erode,FALSE,TRUE,FALSE
+1518,Thiruvalluvar College Of Engineering And Technology,168.405,FALSE,FALSE,66,Thiruvannamalai,FALSE,TRUE,FALSE
+2338,Asian College Of Engineering And Technology,155.065,FALSE,FALSE,72,Coimbatore,TRUE,TRUE,TRUE
+1107,Jaya Institute Of Technology,168.35,FALSE,FALSE,66,Thiruvallur,TRUE,FALSE,FALSE
+3857,Meenakshi Ramaswamy Engineering College,155.025,FALSE,FALSE,72,Ariyalur,TRUE,TRUE,TRUE
+1137,Annai Mira College Of Engineering And Technology,168.24,FALSE,FALSE,66,Ranipet,FALSE,TRUE,FALSE
+1511,Ranipettai Engineering College,168.165,FALSE,FALSE,66,Ranipet,FALSE,TRUE,FALSE
+3410,Krishnaswamy Collge Of Engineering And Technology,167.915,FALSE,FALSE,66,Cuddalore,FALSE,TRUE,FALSE
+2634,Excel Engineering College (Autonomous),167.71,FALSE,FALSE,66,Namakkal,FALSE,TRUE,FALSE
+2302,Sri Shanmugha College Of Engineering And Technology,167.67,FALSE,FALSE,66,Salem,FALSE,TRUE,FALSE
+2609,Mahendra Engineering College (Autonomous),167.64,FALSE,FALSE,66,Namakkal,FALSE,TRUE,FALSE
+2356,Arulmurugan College Of Engineering,167.33,FALSE,FALSE,66,Karur,FALSE,TRUE,FALSE
+4672,Stella Marys College Of Engineering,167.265,FALSE,FALSE,66,Kanyakumari,FALSE,TRUE,FALSE
+1207,Kings Engineering College,167.07,FALSE,FALSE,66,Kancheepuram,FALSE,TRUE,FALSE
+1126,J N N Institute Of Engineering,166.855,FALSE,FALSE,67,Thiruvallur,TRUE,TRUE,TRUE
+4980,Einstein College Of Engineering,166.53,FALSE,FALSE,67,Tirunelveli,FALSE,TRUE,FALSE
+4952,C S I Institute Of Technology,166.495,FALSE,FALSE,67,Kanyakumari,FALSE,TRUE,FALSE
+1226,P T Lee Chengalvaraya Naicker College Of Engineering And Technology,166.185,FALSE,FALSE,67,Kancheepuram,FALSE,TRUE,FALSE
+1412,Mailam Engineering College,166.175,FALSE,FALSE,67,Villupuram,FALSE,TRUE,FALSE
+4931,Grace College Of Engineering,166.095,FALSE,FALSE,67,Thoothukudi,FALSE,TRUE,FALSE
+5915,Sacs-M A V M M Engineering College,165.855,FALSE,FALSE,67,Madurai,FALSE,TRUE,FALSE
+3855,As-Salam College Of Engineering And Technology,154.99,FALSE,FALSE,73,Thanjavur,TRUE,TRUE,TRUE
+2332,Aishwarya College Of Engineering And Technology,165.69,FALSE,FALSE,67,Erode,FALSE,TRUE,FALSE
+5913,R V S College Of Engineering,165.64,FALSE,FALSE,67,Dindigul,FALSE,TRUE,FALSE
+2347,Avs College Of Technology,165.56,FALSE,FALSE,67,Salem,FALSE,TRUE,FALSE
+2636,A V S Engineering College,165.48,FALSE,FALSE,67,Salem,FALSE,TRUE,FALSE
+2614,S S M College Of Engineering,165.395,FALSE,FALSE,67,Namakkal,FALSE,TRUE,FALSE
+4676,Renganayagi Varatharaj College Of Engineering,165.325,FALSE,FALSE,67,Virudhunagar,FALSE,TRUE,FALSE
+4943,Satyam College Of Engineering And Technology,165.275,FALSE,FALSE,67,Kanyakumari,FALSE,TRUE,FALSE
+4978,Udaya School Of Engineering,165.26,FALSE,FALSE,67,Kanyakumari,FALSE,TRUE,FALSE
+2772,C M S College Of Engineering And Technology,153.5,FALSE,FALSE,73,Coimbatore,TRUE,TRUE,TRUE
+5703,Christian College Of Engineering And Technology,165.14,FALSE,FALSE,67,Dindigul,FALSE,TRUE,FALSE
+2643,Bharathiyar Institute Of Engineering For Women,164.88,FALSE,FALSE,68,Salem,FALSE,TRUE,FALSE
+2648,Annaporna Engineering College,164.81,FALSE,FALSE,68,Salem,FALSE,TRUE,FALSE
+4993,Loyola Institute Of Technology And Science,164.755,FALSE,FALSE,68,Kanyakumari,FALSE,TRUE,FALSE
+3843,M R K Institute Of Technology,164.655,FALSE,FALSE,68,Cuddalore,FALSE,TRUE,FALSE
+1605,Idhaya Engineering College For Women,164.535,FALSE,FALSE,68,Kallakurichi,FALSE,TRUE,FALSE
+4669,Thamirabharani Engineering College,164.515,FALSE,FALSE,68,Tirunelveli,FALSE,TRUE,FALSE
+2627,Selvam College Of Technology,164.3,FALSE,FALSE,68,Namakkal,FALSE,TRUE,FALSE
+4957,Jayaraj Annapackiam Csi College Of Engineering,164.13,FALSE,FALSE,68,Thoothukudi,FALSE,TRUE,FALSE
+4946,D M I Engineering College,164.04,FALSE,FALSE,68,Kanyakumari,FALSE,TRUE,FALSE
+1523,Global Institute Of Engineering And Technology,163.81,FALSE,FALSE,68,Ranipet,FALSE,TRUE,FALSE
+2630,Chettinad College Of Engineering And Technology,163.78,FALSE,FALSE,68,Karur,FALSE,TRUE,FALSE
+3846,Mother Terasa College Of Engineering And Technology,153.46,FALSE,FALSE,73,Pudukkottai,TRUE,TRUE,TRUE
+3462,Ariyalur Engineering College,153.21,FALSE,FALSE,73,Ariyalur,TRUE,TRUE,TRUE
+2705,C S I College Of Engineering,163.395,FALSE,FALSE,68,Nilgiris,FALSE,TRUE,FALSE
+1124,Sams College Of Engineering And Technology,163.385,FALSE,FALSE,68,Thiruvallur,TRUE,FALSE,FALSE
+1333,Vi Institute Of Technology,163,FALSE,FALSE,69,Chengalpattu,FALSE,TRUE,FALSE
+4989,P S N Engineering College,162.955,FALSE,FALSE,69,Tirunelveli,FALSE,TRUE,FALSE
+2650,Christ The King Engineering College,152.01,FALSE,FALSE,74,Coimbatore,TRUE,TRUE,TRUE
+5988,Theni Kammavar Sangam College Of Technology,162.68,FALSE,FALSE,69,Theni,FALSE,TRUE,FALSE
+4969,Scad College Of Engineering And Technology,162.595,FALSE,FALSE,69,Tirunelveli,FALSE,TRUE,FALSE
+5914,Solaimalai College Of Engineerig,162.57,FALSE,FALSE,69,Madurai,FALSE,TRUE,FALSE
+2314,Muthayammal College Of Engineering,162.5,FALSE,FALSE,69,Namakkal,FALSE,TRUE,FALSE
+5720,Sri Subramanya College Of Engineering And Technology,162.5,FALSE,FALSE,69,Dindigul,FALSE,TRUE,FALSE
+5536,Mangayarkarasi College Of Engineering,162.495,FALSE,FALSE,69,Madurai,FALSE,TRUE,FALSE
+1133,Annai Veilankannis College Of Engineering,149.945,FALSE,FALSE,75,Chennai,TRUE,TRUE,TRUE
+4994,J P College Of Engineering,162.42,FALSE,FALSE,69,Tenkasi,FALSE,TRUE,FALSE
+4964,Psn College Of Engineering And  Technology And Science,162.22,FALSE,FALSE,69,Tirunelveli,FALSE,TRUE,FALSE
+2639,Narasus Sarathy Institute Of Technology,162.175,FALSE,FALSE,69,Salem,FALSE,TRUE,FALSE
+3814,P R Engineering College,149.21,FALSE,FALSE,75,Thanjavur,TRUE,TRUE,TRUE
+2646,Tagore Institute Of Engineering And Technology,161.91,FALSE,FALSE,69,Salem,FALSE,TRUE,FALSE
+4992,Bethlahem Institute Of Engineering,161.86,FALSE,FALSE,69,Kanyakumari,FALSE,TRUE,FALSE
+1507,Ganadipathy Tulsiõs Jain Engineering College,161.8,FALSE,FALSE,69,Vellore,FALSE,TRUE,FALSE
+1529,Oxford College Of Engineering,161.76,FALSE,FALSE,69,Thiruvannamalai,FALSE,TRUE,FALSE
+4927,Maria College Of Engineering And Technology,161.66,FALSE,FALSE,69,Kanyakumari,FALSE,TRUE,FALSE
+4970,Sree Sowdambiga  College Of Engineering,161.475,FALSE,FALSE,69,Virudhunagar,FALSE,TRUE,FALSE
+2717,Sasurie College Of Engineering,161.46,FALSE,FALSE,69,Tiruppur,FALSE,TRUE,FALSE
+4956,Jayamatha Engineering College,161.31,FALSE,FALSE,69,Kanyakumari,FALSE,TRUE,FALSE
+4999,Annai Vailankanni College Of Engineering,161.265,FALSE,FALSE,69,Kanyakumari,FALSE,TRUE,FALSE
+1125,Pmr Engineering College,146.29,FALSE,FALSE,77,Chennai,TRUE,TRUE,TRUE
+2758,J K K Muniraja College Of Technology,161.205,FALSE,FALSE,69,Erode,FALSE,TRUE,FALSE
+1212,Rajiv Gandhi College Of Engineering,161.175,FALSE,FALSE,69,Kancheepuram,FALSE,TRUE,FALSE
+4953,Cape Institute Of Technology,161.13,FALSE,FALSE,69,Tirunelveli,FALSE,TRUE,FALSE
+4937,A.R College Of Engineering And Technology,160.95,FALSE,FALSE,70,Tirunelveli,FALSE,FALSE,FALSE
+2624,Gnanamani College Of Technology,160.835,FALSE,FALSE,70,Namakkal,FALSE,TRUE,FALSE
+1513,Sri Balaji Chockalingam Engineering College,160.535,FALSE,FALSE,70,Thiruvannamalai,FALSE,TRUE,FALSE
+2606,Jayam College Of Engineering And Technology,160.53,FALSE,FALSE,70,Dharmapuri,FALSE,TRUE,FALSE
+2770,Study World College Of Engineering,144.32,FALSE,FALSE,78,Coimbatore,TRUE,TRUE,TRUE
+2617,Sengunthar Engineering College  (Autonomous),160.23,FALSE,FALSE,70,Namakkal,FALSE,TRUE,FALSE
+2657,Paavai College Of Technology,160.185,FALSE,FALSE,70,Namakkal,FALSE,TRUE,FALSE
+3760,Sir Issac Newton College Of Engineering And Technology,160.175,FALSE,FALSE,70,Nagapattinam,FALSE,TRUE,FALSE
+1421,V R S College Of Engineering And Technology,160.14,FALSE,FALSE,70,Villupuram,FALSE,TRUE,FALSE
+4996,Sri Vidhya College Of Engineering And Technology,160.1,FALSE,FALSE,70,Virudhunagar,FALSE,TRUE,FALSE
+4675,Universal College Of Engineering And Technology,159.815,FALSE,FALSE,70,Tirunelveli,FALSE,TRUE,FALSE
+4934,Holy Cross Engineering College,159.725,FALSE,FALSE,70,Thoothukudi,FALSE,TRUE,FALSE
+5942,Ultra College Of Engineering And  Technology,159.32,FALSE,FALSE,70,Madurai,FALSE,TRUE,FALSE
+1241,T J S Engineering College,159,FALSE,FALSE,71,Thiruvallur,TRUE,TRUE,TRUE
+4949,Psn Institute Of Technology And Science,158.99,FALSE,FALSE,71,Tirunelveli,FALSE,TRUE,FALSE
+1517,Thirumalai Engineering College,158.79,FALSE,FALSE,71,Kancheepuram,FALSE,TRUE,FALSE
+5902,Bharath Niketan Engineering College,158.65,FALSE,FALSE,71,Theni,FALSE,TRUE,FALSE
+4933,St. Mother Theresa Engineering College,158.56,FALSE,FALSE,71,Thoothukudi,FALSE,TRUE,FALSE
+4967,S Veerasamy Chettiar College Of  Engineering And Technology,158.33,FALSE,FALSE,71,Tenkasi,FALSE,TRUE,FALSE
+4983,Lord Jegannath College Of Engineering And Technology,158.31,FALSE,FALSE,71,Kanyakumari,FALSE,TRUE,FALSE
+5911,P T R College Of Engineering And Technology,158.26,FALSE,FALSE,71,Madurai,FALSE,TRUE,FALSE
+2747,Shree Venkateshwara Hi-Tech Engineering College,158.245,FALSE,FALSE,71,Erode,FALSE,TRUE,FALSE
+5935,Fatima Michael College Of Engineering & Technology,158.11,FALSE,FALSE,71,Madurai,FALSE,TRUE,FALSE
+2659,Salem College Of Engineering And Technology,157.985,FALSE,FALSE,71,Salem,FALSE,TRUE,FALSE
+1243,Madha Institute Of Engineering And Technology,143.55,FALSE,FALSE,78,Chennai,TRUE,TRUE,TRUE
+1503,Arulmigu  Meenakshi Amman College Of Engineering,157.81,FALSE,FALSE,71,Thiruvannamalai,FALSE,TRUE,FALSE
+5862,R V S Educational Trustõs Groups Of Institutions (Integrated Campus),157.77,FALSE,FALSE,71,Dindigul,FALSE,TRUE,FALSE
+1510,Priyadarshini Engineering College,157.53,FALSE,FALSE,71,Tirupattur,FALSE,TRUE,FALSE
+2632,Mahendra Institute Of Technology (Autonomous),157.425,FALSE,FALSE,71,Namakkal,FALSE,TRUE,FALSE
+3466,Nelliandavar Institute Of Technology,142.275,FALSE,FALSE,79,Ariyalur,TRUE,TRUE,TRUE
+5912,Pandian Saraswathi Yadav Engineering College,157.11,FALSE,FALSE,71,Sivagangai,FALSE,TRUE,FALSE
+4975,Dr. G U Pope College Of Engineering,156.715,FALSE,FALSE,72,Thoothukudi,FALSE,TRUE,FALSE
+1525,Podhigai College Of Engineering And Technology,156.535,FALSE,FALSE,72,Tirupattur,FALSE,TRUE,FALSE
+2602,Annai Mathammal Sheela Enginereing College,156.3,FALSE,FALSE,72,Namakkal,FALSE,TRUE,FALSE
+3926,Chendhuran College Of Engineering And Technology,138.33,FALSE,FALSE,81,Pudukkottai,TRUE,TRUE,TRUE
+5919,St. Michael College Of Engineering And Technology,156.21,FALSE,FALSE,72,Sivagangai,FALSE,TRUE,FALSE
+2638,Mahendra Engineering College For Women,155.78,FALSE,FALSE,72,Namakkal,FALSE,TRUE,FALSE
+2623,Mahendra College Of Engineering,155.58,FALSE,FALSE,72,Salem,FALSE,TRUE,FALSE
+3461,Arifa Institute Of Technology(Formly Haji Sheik Ismail Engineering College),154.78,FALSE,FALSE,73,Nagapattinam,FALSE,TRUE,FALSE
+2652,Al-Ameen Engineering College (Autonomous),153.865,FALSE,FALSE,73,Erode,FALSE,TRUE,FALSE
+2327,N S N College Of Engineering And Technology,153.835,FALSE,FALSE,73,Karur,FALSE,TRUE,FALSE
+2713,M P Nachimuthu M Jagannathan Engineering College,153.64,FALSE,FALSE,73,Erode,FALSE,TRUE,FALSE
+5930,Sbm College Of Engineering And Technology,153.56,FALSE,FALSE,73,Dindigul,FALSE,TRUE,FALSE
+1519,Bharathidasan Engineering College,153.275,FALSE,FALSE,73,Thiruppathur,FALSE,TRUE,FALSE
+4984,Marthandam College Of Engineering & Technology,153.24,FALSE,FALSE,73,Kanyakumari,FALSE,TRUE,FALSE
+4982,Vins Christian College Of Engineering,152.98,FALSE,FALSE,74,Kanyakumari,FALSE,TRUE,FALSE
+2629,Sengunthar College Of Engineering,152.87,FALSE,FALSE,74,Namakkal,FALSE,TRUE,FALSE
+2346,Shree Sathyam College Of Engineering And Technology,152.53,FALSE,FALSE,74,Salem,FALSE,TRUE,FALSE
+5990,Latha Mathavan Engineering College,152.27,FALSE,FALSE,74,Madurai,FALSE,TRUE,FALSE
+4968,Sardar Raja College Of Engineering,152.065,FALSE,FALSE,74,Tenkasi,FALSE,TRUE,FALSE
+2625,The Kavery Engineering College,151.53,FALSE,FALSE,74,Salem,FALSE,TRUE,FALSE
+1222,P B College Of Engineering,151.12,FALSE,FALSE,74,Kancheepuram,FALSE,TRUE,FALSE
+1209,Pallavan College Of Engineering,150.655,FALSE,FALSE,75,Kancheepuram,FALSE,TRUE,FALSE
+5924,Ganapathy Chettiar College Of Engineering And Technology,150.53,FALSE,FALSE,75,Ramanathapuram,FALSE,TRUE,FALSE
+5533,Karaikudi Institute Of Technology & Karaikudi Institute Of Management,150.045,FALSE,FALSE,75,Sivagangai,FALSE,TRUE,FALSE
+3848,Vandayar Engineering College,136.44,FALSE,FALSE,82,Thanjavur,TRUE,TRUE,TRUE
+1313,Shree Motilal Kanhaiyalal (Smk)Fomra Institute Of Technology,149.68,FALSE,FALSE,75,Chengalpattu,FALSE,TRUE,FALSE
+2633,Vidhya Vikkas College Of Engineering And Technology,149.625,FALSE,FALSE,75,Namakkal,FALSE,TRUE,FALSE
+1434,Surya Group Of Institutions,149.615,FALSE,FALSE,75,Villupuram,FALSE,TRUE,FALSE
+2683,Shreenivasa Engineering College,149.525,FALSE,FALSE,75,Dharmapuri,FALSE,TRUE,FALSE
+2641,Varuvan Vadivelan Institute Of Technology,148.035,FALSE,FALSE,76,Dharmapuri,FALSE,TRUE,FALSE
+1436,A R Engineering College,147.78,FALSE,FALSE,76,Villupuram,FALSE,TRUE,FALSE
+1444,Chendu College Of Engineering & Technology,147.67,FALSE,FALSE,76,Chengalpattu,FALSE,TRUE,FALSE
+2640,Jayalakshmi Institute Of Technology,147.33,FALSE,FALSE,76,Dharmapuri,FALSE,TRUE,FALSE
+1430,Maha Bharathi Engineering College,147.055,FALSE,FALSE,76,Kallakurichi,FALSE,TRUE,FALSE
+2767,Srg Engineering College,146.87,FALSE,FALSE,77,Namakkal,FALSE,TRUE,FALSE
+1402,Annai Terasa College Of Engineering,146.33,FALSE,FALSE,77,Kallakurichi,FALSE,TRUE,FALSE
+1318,T.J Institute Of Technology,129.89,FALSE,FALSE,85,Chennai,TRUE,TRUE,TRUE
+2635,C M S College Of Engineering,146.135,FALSE,FALSE,77,Namakkal,FALSE,TRUE,FALSE
+1524,Annamalaiar College Of Engineering,145.9,FALSE,FALSE,77,Thiruvannamalai,FALSE,TRUE,FALSE
+2748,Surya Engineering College,145.885,FALSE,FALSE,77,Erode,FALSE,TRUE,FALSE
+4976,Infant Jesus College Of Engineering,145.47,FALSE,FALSE,77,Thoothukudi,FALSE,TRUE,FALSE
+4686,Good Shepherd College Of Engineering And Technology,145.275,FALSE,FALSE,77,Kanyakumari,FALSE,TRUE,FALSE
+3860,St. Annes College Of Engineering And Technology,144.67,FALSE,FALSE,78,Cuddalore,FALSE,TRUE,FALSE
+2665,Mahendra Institute Of Engineering And Technology,144.41,FALSE,FALSE,78,Namakkal,FALSE,TRUE,FALSE
+1441,A K T Memorial College Of Engineering And Technology,143.98,FALSE,FALSE,78,Kallakurichi,FALSE,TRUE,FALSE
+3854,Mahath Amma Institute Of Engineering And Technology (Miet),116.42,FALSE,FALSE,92,Pudukkottai,TRUE,TRUE,TRUE
+4995,P.S.R.R College Of Engineering (Formerly P S R Rengasamy College Of Engineering For Women),143.5,FALSE,FALSE,78,Virudhunagar,FALSE,TRUE,FALSE
+1229,Indira Institute Of Engineering And Technology,143.35,FALSE,FALSE,78,Thiruvallur,TRUE,TRUE,TRUE
+2658,V S A Group Of Institutions,143.25,FALSE,FALSE,78,Salem,FALSE,TRUE,FALSE
+4961,Nellai College Of Engineering (Formerly National College Of Engineering),142.395,FALSE,FALSE,79,Tirunelveli,FALSE,TRUE,FALSE
+4929,M E T Engineering College,141.75,FALSE,FALSE,79,Kanyakumari,FALSE,TRUE,FALSE
+1512,S K P Engineering College,141.68,FALSE,FALSE,79,Thiruvannamalai,FALSE,TRUE,FALSE
+4677,Lourdes Mount College Of Engineering And Technology,141.525,FALSE,FALSE,79,Kanyakumari,FALSE,TRUE,FALSE
+4945,Vins Christian Womens College Of Engineering,141.35,FALSE,FALSE,79,Kanyakumari,FALSE,TRUE,FALSE
+4948,Rajas Institute Of Technology,141.295,FALSE,FALSE,79,Kanyakumari,FALSE,TRUE,FALSE
+4941,Unnamalai Institute Of Technology,140.81,FALSE,FALSE,80,Thoothukudi,FALSE,TRUE,FALSE
+5842,Madurai Institute Of Engineering & Technology,140.81,FALSE,FALSE,80,Sivagangai,FALSE,TRUE,FALSE
+1423,Asan Memorial College Of Engineering And Technology,138.7,FALSE,FALSE,81,Chengalpattu,FALSE,TRUE,FALSE
+1449,Saraswathy College Of Engineering And Technology,137.42,FALSE,FALSE,81,Villupuram,FALSE,TRUE,FALSE
+1438,Sree Krishna College Of Engineering,134.615,FALSE,FALSE,83,Vellore,FALSE,TRUE,FALSE
+2647,J K K Nataraja College Of Engineering And Technology,134.44,FALSE,FALSE,83,Namakkal,FALSE,TRUE,FALSE
+3822,Dr.Navalur Nedunchezhiyan College Of Engineering,132.24,FALSE,FALSE,84,Cuddalore,FALSE,TRUE,FALSE
+3766,Star Lion College Of Engineering & Technology,82.75,FALSE,FALSE,109,Thanjavur,TRUE,TRUE,TRUE
+4977,Narayanaguru College Of Engineering,126.5,FALSE,FALSE,87,Kanyakumari,FALSE,TRUE,FALSE
+2341,Ganesh College Of Engineering,123.24,FALSE,FALSE,88,Salem,FALSE,TRUE,FALSE
+1158,International Maritime Academy,117,FALSE,FALSE,92,Chennai,TRUE,FALSE,FALSE
+2733,Angel College Of Engineering And Technology,114.68,FALSE,FALSE,93,Tiruppur,FALSE,TRUE,FALSE
+1235,Jei Mathaajee College Of Engineering,111.5,FALSE,FALSE,94,Kancheepuram,FALSE,TRUE,FALSE
+1435,Jagannath Institute Of Technology,98,FALSE,FALSE,101,Kancheepuram,FALSE,TRUE,FALSE
+1150,Sri Jayaram Institute Of Engineering And Technology,94.5,FALSE,FALSE,103,Thiruvallur,TRUE,TRUE,TRUE
+1445,Sri Rangapoopathi College Of Engineering,87.5,FALSE,FALSE,106,Villupuram,FALSE,TRUE,FALSE
+2612,P G P College Of Engineering And Technology,85.5,FALSE,FALSE,107,Namakkal,FALSE,TRUE,FALSE
+2350,Jairupaa College Of Engineering,80.75,FALSE,FALSE,110,Tiruppur,FALSE,TRUE,FALSE

@@ -1,0 +1,99 @@
+Branch Code,Major,Branch Name - Selected 98,Max OC Cut-off,Select,Select-all,Weight,FALSE
+CS,Computer,Computer Science And Engineering,199,TRUE,FALSE,50,FALSE
+CM,Computer,Computer Science And Engineering (Ss),198,TRUE,FALSE,51,FALSE
+IM,Computer,Information Technology (Ss),197,TRUE,FALSE,52,FALSE
+IT,Computer,Information Technology,195.01,TRUE,FALSE,52,FALSE
+AT,Computer,Artificial Intelligence And Data Science (Ss),193.5,TRUE,TRUE,53,FALSE
+GI,Civil,Geo Informatics,193.15,TRUE,FALSE,53,FALSE
+CW,Computer,Computer Science And Business System (Ss),192.495,TRUE,FALSE,54,FALSE
+AD,Computer,Artificial Intelligence And Data Science,192.255,TRUE,TRUE,54,FALSE
+SE,Computer-No idea,Information Science And Engineering,190.5,TRUE,FALSE,55,FALSE
+CB,Computer,Computer Science And Bussiness System,189.925,TRUE,FALSE,55,FALSE
+AL,Computer,Artificial Intelligence And Machine Learning,189.5,TRUE,FALSE,55,FALSE
+CD,Computer,Computer Science And Design,188.53,TRUE,FALSE,56,FALSE
+CJ,Computer,M.Tech. Computer Science And Engineering (Integrated 5 Years),187.475,TRUE,FALSE,56,FALSE
+CO,Computer,Computer And  Communication Engineering,187.02,TRUE,FALSE,56,FALSE
+CT,Computer,Computer Technology,185,TRUE,FALSE,58,FALSE
+AM,Computer,Computer Science And Engineering (AI And Machine Learning),182.46,TRUE,FALSE,59,FALSE
+CY,Computer,Cyber Security,182.035,TRUE,FALSE,59,FALSE
+SC,Computer,Computer Science And Engineering (Cyber Security),180.705,TRUE,FALSE,60,FALSE
+TS,Computer,Computer Science And Technology,179.735,TRUE,FALSE,60,FALSE
+CF,Computer,Computer Science And Engineering (Data Science),176.955,TRUE,FALSE,62,FALSE
+SB,Computer,Computer Science And Engineering (Internet Of Things And Cyber Security Including Block Chain Technology),174.64,TRUE,FALSE,63,FALSE
+XS,Computer,Computer Science And Engineering (Tamil),157.42,TRUE,FALSE,71,FALSE
+EE,Electrical,Electrical And Electronics Engineering,195.995,TRUE,FALSE,52,FALSE
+EY,Electrical,Electrical And Electronics Engineering (Ss),191.405,TRUE,FALSE,54,FALSE
+ES,Electrical,Electrical And Electronics (Sandwich) (Ss),191.14,TRUE,FALSE,54,FALSE
+EC,Electronics,Electronics And Communication Engineering,197.99,TRUE,FALSE,25,FALSE
+EM,Electronics,Electronics And Communication Engineering (Ss),196.575,TRUE,FALSE,52,FALSE
+EI,Electrical,Electronics And Instrumentation Engineering,194.515,TRUE,FALSE,53,FALSE
+RA,Mechanical,Robotics And Automation (Ss),193.065,TRUE,TRUE,53,TRUE
+IY,Electrical,Instrumentation And Control Engineering (Ss),192,TRUE,FALSE,54,FALSE
+RM,Mechanical,Robotics And Automation,184.5,TRUE,FALSE,58,FALSE
+IC,Electrical,Instrumentation And Control Engineering,181.5,TRUE,FALSE,59,FALSE
+ET,Electronics,Electronics And  Telecommunication Engineering,172.56,TRUE,FALSE,64,FALSE
+MD,Electronics,Medical Electronics Engineering,170.135,TRUE,FALSE,65,FALSE
+MM,Mechanical,Mechanical Engineering (Manufacturing),153.47,TRUE,FALSE,73,FALSE
+IB,Medical,Industrial Bio Technology,195.5,TRUE,FALSE,52,FALSE
+BY,Medical,Bio Medical Engineering  (Ss),195,TRUE,FALSE,53,FALSE
+BS,Medical,Bio Technology (Ss),193.58,TRUE,FALSE,53,FALSE
+BM,Medical,Bio Medical Engineering,193.5,TRUE,FALSE,53,FALSE
+BT,Medical,Bio Technology,191.5,TRUE,FALSE,54,FALSE
+AE,Mechanical,Aeronautical Engineering,195.585,FALSE,FALSE,52,
+AO,Mechanical,Aerospace Engineering,181.495,FALSE,FALSE,59,
+AG,Civil,Agriculture Engineering,182.205,FALSE,FALSE,59,
+CH,Chemical,Chemical  Engineering,193.68,FALSE,FALSE,53,
+CC,Chemical,Chemical And Electro Chemical  Engineering (Ss),193,FALSE,FALSE,54,
+CL,Chemical,Chemical  Engineering (Ss),191.735,FALSE,FALSE,54,
+CE,Civil,Civil  Engineering,193.5,FALSE,FALSE,53,
+CN,Civil,Civil  Engineering (Ss),189.975,FALSE,FALSE,55,
+XC,Civil,Civil Engineering (Tamil Medium),187.035,FALSE,FALSE,56,
+CZ,Civil,Civil And Structutural Engineering,157.185,FALSE,FALSE,71,
+FY,Fashion,Fashion Technology (Ss),187,FALSE,FALSE,57,
+AP,Fashion,Apparel Technology (Ss),186.5,FALSE,FALSE,57,
+FT,Fashion,Fashion Technology,181.5,FALSE,FALSE,59,
+FS,Food,Food Technology (Ss),191.735,FALSE,FALSE,54,
+FD,Food,Food Technology,185.395,FALSE,FALSE,57,
+LE,Leather,Leather Technology,185.155,FALSE,FALSE,57,
+MR,Mechanical,Marine Engineering,179.175,FALSE,FALSE,60,
+ME,Mechanical,Mechanical Engineering,194.615,FALSE,FALSE,53,
+MF,Mechanical,Mechanical Engineering (Ss),193,FALSE,FALSE,54,
+AU,Mechanical,Automobile Engineering,191.815,FALSE,FALSE,54,
+MG,Mechanical,Mechatronics (Ss),190.5,FALSE,FALSE,55,
+AS,Mechanical,Automobile Engineering (Ss),189,FALSE,FALSE,56,
+MS,Mechanical,Mechanical Engineering (Sandwich) (Ss),188.01,FALSE,FALSE,56,
+MZ,Mechanical,Mechatronics Engineering,187.58,FALSE,FALSE,56,
+XM,Mechanical,Mechanical Engineering (Tamil Medium),184.44,FALSE,FALSE,58,
+MC,Mechanical,Mechatronics,179.78,FALSE,FALSE,60,
+MU,Mechanical,Mechanical And Automation Engineering,174.24,FALSE,FALSE,63,
+MO,Mechanical,Mechanical And Mechatronics Engineering (Additive Manufacturing),157.725,FALSE,FALSE,71,
+MH,Mechanical,Mechanical Engineering (Sandwich),156,FALSE,FALSE,72,
+IS,Medical,Industrial Bio Technology (Ss),194,FALSE,FALSE,53,
+PM,Medical,Pharmaceutical Technology (Ss),190.5,FALSE,FALSE,55,
+PH,Medical,Pharmaceutical Technology,181.21,FALSE,FALSE,59,
+PU,Medical,Pharmaceutical Engineering,145.33,FALSE,FALSE,77,
+BC,Medical,Bio Technology And Bio Chemical Engineering,142.5,FALSE,FALSE,79,
+MA,Mechanical,Material Science And Engineering (Ss),192,FALSE,FALSE,54,
+IE,Mechanical,Industrial Engineering,192,FALSE,FALSE,54,
+MN,Mechanical,Manufacturing Engineering,191.355,FALSE,FALSE,54,
+PR,Mechanical,Production Engineering,191,FALSE,FALSE,55,
+MI,Other,Mining Engineering,190.515,FALSE,FALSE,55,
+MT,Other,Metallurgical Engineering,188.645,FALSE,FALSE,56,
+PN,Mechanical,Production Engineering (Ss),187.745,FALSE,FALSE,56,
+MY,Other,Metallurgical Engineering (Ss),187.175,FALSE,FALSE,56,
+CR,Other,Ceramic Technology (Ss),185.585,FALSE,FALSE,57,
+PS,Mechanical,Production Engineering (Sandwich) (Ss),185.5,FALSE,FALSE,57,
+IN,Mechanical,Industrial Engineering And Management,148.61,FALSE,FALSE,76,
+SF,Mechanical,Safety And Fire Engineering,148.42,FALSE,FALSE,76,
+EN,Civil,Environmental Engineering,138.615,FALSE,FALSE,81,
+PP,Petroleum,Petroleum Engineering And Technology (Ss),187.435,FALSE,FALSE,56,
+PC,Petroleum,Petro Chemical Technology,172.955,FALSE,FALSE,64,
+PE,Petroleum,Petroleum Engineering,165.395,FALSE,FALSE,67,
+PD,Petroleum,Petro Chemical Engineering,156.64,FALSE,FALSE,72,
+RP,Plastic,Rubber And Plastic Technology,188.265,FALSE,FALSE,56,
+PA,Plastic,Plastic Technology,185.58,FALSE,FALSE,57,
+PT,Printing,Printing Technology,189.75,FALSE,FALSE,55,
+TX,Textile,Textile Technology,186.47,FALSE,FALSE,57,
+TT,Textile,Textile Technology (Ss),183.5,FALSE,FALSE,58,
+HT,Textile,Handloom And Textile Technology,179.88,FALSE,FALSE,60,
+TC,Textile,Textile Chemistry,130.5,FALSE,FALSE,85,
